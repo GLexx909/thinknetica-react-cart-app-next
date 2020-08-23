@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    height: 130px;
+    border-bottom: 2px solid black;
+    background-color: #00BFFF;
+}
+
+.img {
+    width: 130px;
+    height: auto
+}
+
+.title {
+    font-size: 30px;
+    font-weight: 600
+}
